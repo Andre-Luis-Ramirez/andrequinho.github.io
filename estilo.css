@@ -1,0 +1,59 @@
+.hob {
+   background: url('Img/fut.mov') repeat center center fixed;
+   background-size: cover;
+}
+
+.backcolor {
+   background-color: #81b4ef;
+   font-family: "Wittgenstein", serif;
+   font-size: large;
+   font-optical-sizing: auto;
+   font-style: normal;
+
+}
+
+.sobre {
+   margin: 35px;
+}
+
+.links {
+   transition: transform 0.3s ease-in-out;
+   color: #b72318;
+   text-decoration: none;
+   transition: color 0.3s ease;
+   inline-size: none;
+}
+
+.links:hover {
+   color: #040c15;
+   cursor: url('https://cdn.icon-icons.com/icons2/1464/PNG/512/closedhand_100189.png'), auto;
+}
+
+.foot {
+   background-color: #222;
+   color: #fff;
+   text-align: center;
+   padding: 10px 0;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
+
+.text-center {
+   margin-top: 15px;
+}
+
+.fotos {
+   width: 960px;
+   height: 640px;
+}
+
+.rounded-border {
+   border-radius: 15px;
+   margin-bottom: 20px;
+   margin-top: 10px;
+}
+
+body {
+   padding-bottom: 75px;
+}
